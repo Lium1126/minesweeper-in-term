@@ -19,7 +19,7 @@
     <br>
   
     1. [ダウンロードページ](http://ftp.gnu.org/gnu/ncurses/)から任意のバージョンの`ncurses-ver.tar.gz`をダウンロード
-    2. ダウンロードした`ncurses-ver.tar.gz`をダウンロードディレクトリツ内で展開
+    2. ダウンロードした`ncurses-ver.tar.gz`をダウンロードディレクトリ内で展開
     3. ターミナルで以下のコマンドを実行
     
         ```
