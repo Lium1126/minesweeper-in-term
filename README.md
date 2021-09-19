@@ -29,13 +29,7 @@
         $ sudo make install
         ```
   
-2. GitHubリポジトリのクローン
-    
-    任意のディレクトリにて、次のコマンドでこのリポジトリをクローンします。
-    
-    ```
-    $ git clone https://github.com/Lium1126/minesweeper-in-term/
-    ```
+2. GitHubリポジトリのフォーク
     
 3. ディレクトリの移動
     
